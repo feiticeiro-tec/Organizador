@@ -1,0 +1,23 @@
+#MAIN{
+    background-color:white;}
+
+#Button,#Start,#Label{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Button{
+
+    font-size: 8pt;
+    text-align: left;
+    background-color:white;
+}
+
+#Start{
+
+    font-size: 8pt;
+    background-color:white;
+}
+#Label{
+
+    font-size: 12pt;
+}
